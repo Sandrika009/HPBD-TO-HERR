@@ -1,0 +1,35 @@
+.land {
+  border-width: 100px;
+  border-color: rgba(226, 43, 205, 0.639);
+  border-style: groove;
+
+  color: red;
+  
+}
+
+.help {
+  border-width: 60px;
+  border-color: rgba(226, 43, 205, 0.639);
+  border-style: solid;
+
+  color: red;
+}
+
+body {
+    background-image: linear-gradient(to right, blueviolet, rgb(251, 0, 255));
+  backface-visibility: inherit;
+}
+
+.sea {
+  background-image: url(https://media.istockphoto.com/id/1362776843/video/bunch-of-red-hearts-are-falling-against-black-background-in-4k-resolution.jpg?s=640x640&k=20&c=IMTtsgaP2ryHCJ9YqxZRI9wj4qlLQpJ-sB0clKv2h4U=);
+  color: blueviolet;
+
+  border-width: 200px;
+  border-style: ridge;
+  border-color: red;
+}
+
+.rtt {
+    color: red;
+    background-color: violet;
+}
